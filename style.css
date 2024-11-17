@@ -1,0 +1,61 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #2A2F4F;
+}
+.container{
+    height: 86vh;
+    width: 30%;
+}
+.buttons{
+    margin-left: 65px;
+    margin-top: 40px;
+}
+.pturn{
+    background-color: #E5BEEC;
+    height: 50px;
+    width: 300px;
+    font-weight: bold;
+    color:#2A2F4F;
+    border-radius: 25px;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 30px;
+    margin-left: 075px;
+    font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+}
+#reset{
+    height:65px ;
+    width: 150px;
+    color:#2A2F4F ;
+    margin-left: 155px;
+    margin-top: 20px;
+    font-size: 25px;
+    font-weight: bolder;
+    font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+}
+button{
+    display: inline;
+    height: 100px;
+    width: 100px;
+    margin: 3px;
+    border-radius: 25px;
+    background-color: #FDE2F3;
+    font-size: 45px;
+    font-weight: bolder;
+    color:#2A2F4F;
+    font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+}
+h1{
+    text-align: center;
+    font-size: 60px;
+    color:  #E5BEEC;
+    font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+}
